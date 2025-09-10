@@ -1,0 +1,9 @@
+{
+	"name": "ad-aw-project-dolly",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b98fa879-a2ea-4d51-9960-569dd449da0a",
+		"tenantId": "9c6c7bdb-c3fd-46a1-9089-9474ab4f74e3"
+	}
+}
