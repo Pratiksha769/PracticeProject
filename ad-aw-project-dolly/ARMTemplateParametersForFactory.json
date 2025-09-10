@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ad-aw-project-dolly"
+		},
+		"AzureDataLakeStorage_Linkedservice_accountKey": {
+			"value": ""
+		},
+		"GitHub_service_credential": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_Linkedservice_properties_typeProperties_url": {
+			"value": "https://awstoragedatalake16.dfs.core.windows.net/"
+		},
+		"GitHub_service_properties_typeProperties_username": {
+			"value": "Pratiksha769"
+		},
+		"Http_linkedservice_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		}
+	}
+}
